@@ -1,4 +1,4 @@
-### Products Coding TEST API 
+# Products Coding TEST API 
 Overview
 This is a coding test project for developing a Products API in .NET 6. The API provides two secured endpoints: /api/products and /api/products/{colour}. You can extend the list of product names and colors in DataModels/ProductEnums.cs.
 
